@@ -9,10 +9,10 @@ Net Worth (First Net Worth): 10.0 B
 → Represents a highlighted or selected net worth value.
 
 Count of Billionaires by Country
-→ United States leads (~540), followed by China (~175), India (~115), Germany (~99), etc.
+→ United States leads (540), followed by China (175), India (115), Germany (99), etc.
 
 Country/Territory Distribution (%)
-→ Shows percentage share of billionaires by country (e.g., US ~34.7%, China ~11.25%, India ~7.39%).
+→ Shows percentage share of billionaires by country (e.g., US 34.7%, China ~11.25%, India 7.39%).
 
 Map Visualization
 → Displays geographic spread of billionaires across continents.
